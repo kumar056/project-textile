@@ -628,7 +628,7 @@ ol {
 
 .hero__categories ul li a {
 	font-size: 20px;
-	color: #1c1c1c;
+	color: #6e6a6a;
 	line-height: 39px;
 	display: block;
 }
@@ -663,7 +663,7 @@ ol {
 	top: 14px;
 	height: 20px;
 	width: 1px;
-	background: #000000;
+	background: #edebeb;
 	opacity: 0.1;
 	content: "";
 }
@@ -728,6 +728,7 @@ ol {
 
 .hero__item {
 	height: 431px;
+	width: 1000px;
 	display: flex;
 	align-items: center;
 	padding-left: 75px;
@@ -1367,8 +1368,8 @@ ol {
 }
 
 .product__discount__item__text span {
-	font-size: 14px;
-	color: #b2b2b2;
+	font-size: 16px;
+	color: #3f8006;
 	display: block;
 	margin-bottom: 4px;
 }
